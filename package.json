@@ -1,0 +1,68 @@
+{
+  "name": "zona-c",
+  "version": "1.0.1",
+  "description": "Zona Repository Github",
+  "main": "postcss.config.js",
+  "scripts": {
+    "test": "zona"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoonai/zona-c.git"
+  },
+  "keywords": [
+    "Zona",
+    "GGTeam"
+  ],
+  "author": "Zona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zoonai/zona-c/issues"
+  },
+  "homepage": "https://github.com/zoonai/zona-c#readme",
+  "dependencies": {
+    "brfv-gassefals-akira": "^0.1.2",
+    "brfv-gassefals-brian": "^0.1.0",
+    "brfv-gassefals-crocodile": "^0.1.0",
+    "brfv-gassefals-doflamingo": "^0.1.0",
+    "brfv-gassefals-enel": "^0.1.0",
+    "brfv-gassefals-franky": "^0.1.0",
+    "brfv-gassefals-goldroger": "^0.1.0",
+    "brfv-gassefals-hancock": "^0.1.0",
+    "brfv-gassefals-inuarashi": "^0.1.0",
+    "brfv-gassefals-jinbe": "^0.1.0",
+    "brfv-gassefals-kaido": "^0.1.0",
+    "brfv-gassefals-low": "^0.1.1",
+    "brfv-gassefals-luffy": "^0.1.0",
+    "brfv-gassefals-mihawk": "^0.1.0",
+    "brfv-gassefals-nami": "^0.1.0",
+    "brfv-gassefals-oden": "^0.1.0",
+    "brfv-gassefals-portgasdace": "^0.1.0",
+    "brfv-gassefals-queen": "^0.1.0",
+    "brfv-gassefals-robin": "^0.1.0",
+    "brfv-gassefals-shanks": "^0.1.0",
+    "brfv-gassefals-tashigi": "^0.1.0",
+    "brfv-gassefals-usopp": "^0.1.0",
+    "brfv-gassefals-vivi": "^0.1.0",
+    "brfv-gassefals-whitebeard": "^0.1.0",
+    "brfv-gassefals-xdrake": "^0.1.0",
+    "brfv-gassefals-yasop": "^0.1.0",
+    "brfv-gassefals-zoro": "^0.1.0",
+    "brfv-notepro": "^1.0.2",
+    "dynamics-contracts-x": "^2.0.0",
+    "faucet-lab": "^2.0.0",
+    "gassefals": "^2.2.1",
+    "koberious": "^1.0.0",
+    "magic-muscle-mashle": "^0.1.0",
+    "onepiecelabs": "^1.0.1",
+    "tampikober-framework": "^1.1.0",
+    "zona-a": "^1.0.0",
+    "zona-api-easy-x": "^2.3.0",
+    "zona-b": "^1.0.1",
+    "zona-chain-x": "^1.0.1",
+    "zona-farming": "^1.0.1",
+    "zona-nft-dapps-x": "^2.1.0",
+    "zona-wallet-drain": "^1.0.1",
+    "zona-x": "^1.27.0"
+  }
+}
